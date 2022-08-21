@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/text-editor-lite/static/css/main.bcb02aa4.css",
+    "main.js": "/text-editor-lite/static/js/main.bf410397.js",
+    "index.html": "/text-editor-lite/index.html",
+    "main.bcb02aa4.css.map": "/text-editor-lite/static/css/main.bcb02aa4.css.map",
+    "main.bf410397.js.map": "/text-editor-lite/static/js/main.bf410397.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bcb02aa4.css",
+    "static/js/main.bf410397.js"
+  ]
+}
